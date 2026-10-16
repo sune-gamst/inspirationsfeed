@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T08:47:43.084Z",
+ "updated": "2026-10-16T10:06:38.454Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/13655-royal-sites-ireland",
@@ -30,9 +30,14 @@
     "stemning:luksus",
     "emne:Forbrug",
     "emne:Kosmetik",
-    "emne:E-handel"
+    "emne:E-handel",
+    "brand:redak",
+    "layout:full",
+    "farve:jord",
+    "farve:varm",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13653-oath-biome",
@@ -292,9 +297,14 @@
    "tags": [
     "stemning:luksus",
     "stemning:minimal",
-    "branche:rejser"
+    "branche:rejser",
+    "brand:typo",
+    "layout:full",
+    "farve:jord",
+    "farve:varm",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13637-jakobsen-copenhagen",
@@ -369,9 +379,12 @@
     "brand:typo",
     "farve:mono",
     "emne:Design",
-    "emne:Bureau"
+    "emne:Bureau",
+    "layout:full",
+    "stemning:minimal",
+    "stemning:raa"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13632-studio-ol",
@@ -420,9 +433,14 @@
     "stemning:minimal",
     "branche:bolig",
     "emne:Bureau",
-    "emne:Portfolio"
+    "emne:Portfolio",
+    "brand:redak",
+    "layout:split",
+    "farve:jord",
+    "farve:dyb",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13629-studio-gerosa",
@@ -487,9 +505,12 @@
     "stemning:minimal",
     "emne:Design",
     "emne:Branding",
-    "emne:Bureau"
+    "emne:Bureau",
+    "brand:redak",
+    "farve:mono",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13625-grapa-studio",
@@ -503,9 +524,15 @@
     "stemning:luksus",
     "stemning:minimal",
     "branche:bolig",
-    "emne:Bureau"
+    "emne:Bureau",
+    "brand:redak",
+    "brand:typo",
+    "layout:full",
+    "farve:jord",
+    "farve:varm",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13624-artemii-lebedev",
@@ -572,9 +599,12 @@
     "stemning:luksus",
     "branche:bolig",
     "emne:Bureau",
-    "emne:Portfolio"
+    "emne:Portfolio",
+    "layout:full",
+    "farve:varm",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13620-visual-archives-society",
@@ -641,9 +671,13 @@
     "brand:motion",
     "emne:Kunst",
     "emne:Fotografi",
-    "emne:Bureau"
+    "emne:Bureau",
+    "brand:redak",
+    "layout:full",
+    "farve:kolig",
+    "farve:pastel"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13616-arcteryx",
@@ -659,9 +693,14 @@
     "emne:Forbrug",
     "emne:Bæredygtighed",
     "emne:E-handel",
-    "emne:Katalog"
+    "emne:Katalog",
+    "brand:typo",
+    "brand:illu",
+    "layout:full",
+    "farve:jord",
+    "farve:varm"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13615-wwake",
@@ -676,9 +715,12 @@
     "stemning:minimal",
     "emne:Forbrug",
     "emne:Mode",
-    "emne:E-handel"
+    "emne:E-handel",
+    "brand:redak",
+    "layout:full",
+    "farve:varm"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13614-jack-and-jill",
@@ -727,9 +769,13 @@
     "emne:Design",
     "emne:Branding",
     "emne:Produktdesign",
-    "emne:Bureau"
+    "emne:Bureau",
+    "brand:farve",
+    "layout:full",
+    "farve:varm",
+    "stemning:raa"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13572-pear",
