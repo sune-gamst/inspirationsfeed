@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-16T10:06:38.454Z",
+ "updated": "2026-10-17T05:23:46.885Z",
  "items": [
+  {
+   "id": "https://www.siteinspire.com/website/2969-david-mcgillivray",
+   "title": "David McGillivray",
+   "url": "https://www.siteinspire.com/website/2969-david-mcgillivray",
+   "credit": "",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/X6rEksKd6F9-.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/X6rEksKd6F9-.jpg",
+   "tags": [
+    "emne:Portfolio",
+    "brand:typo",
+    "emne:Web",
+    "emne:Design",
+    "farve:mono",
+    "emne:Webflow"
+   ],
+   "ai": false,
+   "date": "2026-10-16T05:57:16.000Z"
+  },
   {
    "id": "https://www.siteinspire.com/website/13655-royal-sites-ireland",
    "title": "Royal Sites Ireland",
@@ -203,9 +222,14 @@
     "emne:Fotografi",
     "emne:Portfolio",
     "brand:redak",
-    "emne:Kosmetik"
+    "emne:Kosmetik",
+    "brand:typo",
+    "layout:split",
+    "farve:mono",
+    "stemning:luksus",
+    "stemning:minimal"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13643-town",
@@ -471,9 +495,12 @@
     "stemning:minimal",
     "branche:bolig",
     "emne:Bureau",
-    "emne:Portfolio"
+    "emne:Portfolio",
+    "layout:split",
+    "farve:jord",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13627-exemplar",
