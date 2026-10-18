@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T05:23:46.885Z",
+ "updated": "2026-10-18T05:23:46.453Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/2969-david-mcgillivray",
@@ -137,9 +137,13 @@
     "stemning:minimal",
     "emne:Kultur",
     "emne:Historie",
-    "brand:redak"
+    "brand:redak",
+    "layout:full",
+    "farve:dyb",
+    "farve:varm",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13648-bocstudio",
@@ -291,9 +295,14 @@
     "brand:redak",
     "stemning:minimal",
     "emne:Fotografi",
-    "emne:Portfolio"
+    "emne:Portfolio",
+    "brand:typo",
+    "layout:full",
+    "farve:mono",
+    "farve:dyb",
+    "stemning:luksus"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13639-the-surfers-journal-archives",
@@ -761,9 +770,13 @@
     "brand:typo",
     "stemning:minimal",
     "emne:Erhverv",
-    "emne:Tech"
+    "emne:Tech",
+    "brand:redak",
+    "layout:split",
+    "farve:mono",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13570-this-design",
@@ -853,9 +866,14 @@
     "emne:Kunst",
     "emne:Design",
     "emne:Personlig",
-    "emne:Portfolio"
+    "emne:Portfolio",
+    "brand:typo",
+    "brand:redak",
+    "layout:utrad",
+    "farve:jord",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13575-mac-moss-studio",
