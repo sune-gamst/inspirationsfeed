@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T05:23:46.453Z",
+ "updated": "2026-10-19T05:29:44.334Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/2969-david-mcgillivray",
@@ -263,9 +263,13 @@
     "stemning:minimal",
     "brand:motion",
     "emne:Fotografi",
-    "emne:Portfolio"
+    "emne:Portfolio",
+    "brand:typo",
+    "layout:full",
+    "farve:jord",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13641-union-boulangerie",
