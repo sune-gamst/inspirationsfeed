@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T05:29:44.334Z",
+ "updated": "2026-10-20T05:28:01.880Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/2969-david-mcgillivray",
@@ -104,9 +104,14 @@
     "stemning:minimal",
     "emne:Forbrug",
     "branche:bolig",
-    "emne:E-handel"
+    "emne:E-handel",
+    "brand:redak",
+    "layout:full",
+    "farve:jord",
+    "farve:varm",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13650-carriere-scene",
@@ -283,9 +288,13 @@
     "brand:redak",
     "stemning:minimal",
     "emne:Mad-og-drikke",
-    "emne:Café"
+    "emne:Café",
+    "brand:typo",
+    "layout:full",
+    "farve:mono",
+    "stemning:raa"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13640-alicia-dubuis",
@@ -355,9 +364,14 @@
     "stemning:luksus",
     "stemning:minimal",
     "branche:bolig",
-    "emne:E-handel"
+    "emne:E-handel",
+    "brand:typo",
+    "layout:full",
+    "farve:varm",
+    "farve:jord",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13636-hedroom",
@@ -892,9 +906,14 @@
     "stemning:minimal",
     "emne:Design",
     "emne:Branding",
-    "emne:Portfolio"
+    "emne:Portfolio",
+    "brand:illu",
+    "brand:typo",
+    "layout:split",
+    "farve:mono",
+    "stemning:raa"
    ],
-   "ai": false
+   "ai": true
   }
  ]
 }
