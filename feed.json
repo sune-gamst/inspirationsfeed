@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T05:28:01.880Z",
+ "updated": "2026-10-21T05:27:59.431Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/2969-david-mcgillivray",
@@ -251,9 +251,16 @@
    "tags": [
     "brand:typo",
     "stemning:minimal",
-    "emne:Tech"
+    "emne:Tech",
+    "brand:illu",
+    "layout:utrad",
+    "layout:full",
+    "farve:varm",
+    "farve:jord",
+    "stemning:legende",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13642-sam-thies",
