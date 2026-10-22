@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T05:27:59.431Z",
+ "updated": "2026-10-22T05:28:47.587Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/2969-david-mcgillivray",
@@ -15,9 +15,12 @@
     "emne:Web",
     "emne:Design",
     "farve:mono",
-    "emne:Webflow"
+    "emne:Webflow",
+    "layout:full",
+    "stemning:minimal",
+    "stemning:rolig"
    ],
-   "ai": false,
+   "ai": true,
    "date": "2026-10-16T05:57:16.000Z"
   },
   {
