@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T05:28:47.587Z",
+ "updated": "2026-10-23T05:27:27.623Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/2969-david-mcgillivray",
@@ -36,9 +36,14 @@
     "stemning:minimal",
     "emne:Kultur",
     "emne:Historie",
-    "emne:Nonprofit"
+    "emne:Nonprofit",
+    "brand:redak",
+    "layout:full",
+    "farve:jord",
+    "farve:varm",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13654-siha",
@@ -819,9 +824,15 @@
     "emne:Design",
     "emne:Branding",
     "emne:Bureau",
-    "emne:Portfolio"
+    "emne:Portfolio",
+    "layout:full",
+    "layout:kort",
+    "farve:mono",
+    "farve:dyb",
+    "stemning:minimal",
+    "stemning:luksus"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13571-love-and-money",
