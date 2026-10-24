@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T05:27:27.623Z",
+ "updated": "2026-10-24T05:24:35.935Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/2969-david-mcgillivray",
@@ -343,9 +343,13 @@
    "tags": [
     "brand:redak",
     "stemning:minimal",
-    "emne:Sport"
+    "emne:Sport",
+    "brand:typo",
+    "layout:kort",
+    "farve:pastel",
+    "stemning:luksus"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13638-les-grands-chenes",
@@ -557,9 +561,14 @@
     "stemning:minimal",
     "brand:typo",
     "emne:Katalog",
-    "emne:Typestøberi"
+    "emne:Typestøberi",
+    "brand:redak",
+    "layout:full",
+    "farve:dyb",
+    "farve:varm",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13626-sort-office",
@@ -651,9 +660,13 @@
     "farve:mono",
     "emne:Forbrug",
     "emne:Mad-og-drikke",
-    "emne:E-handel"
+    "emne:E-handel",
+    "brand:typo",
+    "brand:illu",
+    "layout:full",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13621-house-of-honey",
