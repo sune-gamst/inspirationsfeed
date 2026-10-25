@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T05:24:35.935Z",
+ "updated": "2026-10-25T05:25:39.821Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/2969-david-mcgillivray",
@@ -95,9 +95,14 @@
     "stemning:minimal",
     "emne:PR",
     "emne:Fotografi",
-    "emne:Bureau"
+    "emne:Bureau",
+    "brand:typo",
+    "layout:utrad",
+    "farve:pastel",
+    "farve:mono",
+    "stemning:luksus"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13651-fume",
@@ -133,9 +138,14 @@
     "brand:typo",
     "farve:mono",
     "emne:Musik",
-    "emne:Nonprofit"
+    "emne:Nonprofit",
+    "brand:farve",
+    "layout:split",
+    "farve:neon",
+    "stemning:raa",
+    "stemning:legende"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13649-life-stories",
