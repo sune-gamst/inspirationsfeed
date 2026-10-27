@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T05:30:06.270Z",
+ "updated": "2026-10-27T05:30:03.739Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/2969-david-mcgillivray",
@@ -892,9 +892,14 @@
     "layout:utrad",
     "emne:Branding",
     "emne:Tech",
-    "emne:Bureau"
+    "emne:Bureau",
+    "brand:illu",
+    "layout:full",
+    "farve:kolig",
+    "stemning:luksus",
+    "stemning:legende"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13573-quatrieme-etage",
