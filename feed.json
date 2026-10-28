@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T05:30:03.739Z",
+ "updated": "2026-10-28T05:37:19.501Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/2969-david-mcgillivray",
@@ -653,9 +653,12 @@
     "emne:Design",
     "emne:Web",
     "emne:Personlig",
-    "emne:Portfolio"
+    "emne:Portfolio",
+    "brand:illu",
+    "layout:utrad",
+    "farve:mono"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13622-stereoscope-coffee",
