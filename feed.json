@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-29T05:39:27.566Z",
+ "updated": "2026-10-30T05:39:48.773Z",
  "items": [
+  {
+   "id": "https://www.siteinspire.com/website/11135-blond",
+   "title": "Blond",
+   "url": "https://www.siteinspire.com/website/11135-blond",
+   "credit": "Engine, BLOND",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/napT-cwDte7w.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/napT-cwDte7w.jpg",
+   "tags": [
+    "emne:Produktdesign",
+    "emne:Bureau"
+   ],
+   "ai": false,
+   "date": "2026-10-29T09:54:56.000Z"
+  },
   {
    "id": "https://www.siteinspire.com/website/2969-david-mcgillivray",
    "title": "David McGillivray",
