@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T05:40:44.537Z",
+ "updated": "2026-11-02T05:55:31.632Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/11135-blond",
@@ -751,9 +751,14 @@
     "stemning:minimal",
     "brand:typo",
     "emne:Web",
-    "emne:Bureau"
+    "emne:Bureau",
+    "brand:farve",
+    "layout:full",
+    "farve:dyb",
+    "farve:jord",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13618-kai-blamey-nguyen",
