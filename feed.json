@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T05:52:58.412Z",
+ "updated": "2026-11-05T05:55:42.457Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/11135-blond",
@@ -202,9 +202,14 @@
     "emne:Design",
     "emne:Branding",
     "emne:Bureau",
-    "emne:Portfolio"
+    "emne:Portfolio",
+    "brand:illu",
+    "brand:motion",
+    "farve:neon",
+    "farve:dyb",
+    "stemning:legende"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13647-cactus-digitale",
@@ -554,9 +559,15 @@
     "emne:Corporate",
     "stemning:minimal",
     "emne:Erhverv",
-    "emne:Jura"
+    "emne:Jura",
+    "brand:typo",
+    "brand:farve",
+    "layout:full",
+    "farve:kolig",
+    "farve:dyb",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13628-taylorhare-architects",
