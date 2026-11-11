@@ -1,6 +1,389 @@
 {
- "updated": "2026-11-10T05:49:14.056Z",
+ "updated": "2026-11-11T05:54:06.714Z",
  "items": [
+  {
+   "id": "https://www.siteinspire.com/website/13673-tacaloa",
+   "title": "Tacaloa",
+   "url": "https://www.siteinspire.com/website/13673-tacaloa",
+   "credit": "Contra Studio",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/LlqIrcBK-_pu.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/LlqIrcBK-_pu.jpg",
+   "tags": [
+    "brand:typo",
+    "brand:farve",
+    "emne:Mad-og-drikke",
+    "emne:Café"
+   ],
+   "ai": false,
+   "date": "2026-11-10T13:12:58.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13674-coaika",
+   "title": "Coaika",
+   "url": "https://www.siteinspire.com/website/13674-coaika",
+   "credit": "",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/QIawCV82g0NQ.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/QIawCV82g0NQ.jpg",
+   "tags": [
+    "stemning:luksus",
+    "stemning:minimal",
+    "emne:Design",
+    "emne:Bureau"
+   ],
+   "ai": false,
+   "date": "2026-11-10T13:11:34.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13672-led",
+   "title": "LED",
+   "url": "https://www.siteinspire.com/website/13672-led",
+   "credit": "Kyle Morck",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/GqH0kh7wqe2X.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/GqH0kh7wqe2X.jpg",
+   "tags": [
+    "brand:typo",
+    "brand:farve",
+    "emne:Dance-&-Theatre",
+    "emne:Nonprofit"
+   ],
+   "ai": false,
+   "date": "2026-11-10T13:11:20.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13671-who-the-fuck-is-sarah-sey",
+   "title": "WHO THE FUCK IS SARAH SEY ?",
+   "url": "https://www.siteinspire.com/website/13671-who-the-fuck-is-sarah-sey",
+   "credit": "Numbered",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/7QPS-9W8uSUb.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/7QPS-9W8uSUb.jpg",
+   "tags": [
+    "brand:typo",
+    "emne:Pattern",
+    "emne:Personlig"
+   ],
+   "ai": false,
+   "date": "2026-11-10T13:10:23.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/7498-wedge",
+   "title": "Wedge",
+   "url": "https://www.siteinspire.com/website/7498-wedge",
+   "credit": "Wedge, Croustille",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/ygYwVyc324Ho.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/ygYwVyc324Ho.jpg",
+   "tags": [
+    "emne:Bureau",
+    "emne:Design",
+    "brand:typo",
+    "brand:redak",
+    "layout:split",
+    "farve:mono",
+    "stemning:minimal"
+   ],
+   "ai": true,
+   "date": "2026-11-10T09:42:06.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/8347-made-thought",
+   "title": "Made Thought",
+   "url": "https://www.siteinspire.com/website/8347-made-thought",
+   "credit": "Josh Harrison",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/7bFsft7XqaoA.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/7bFsft7XqaoA.jpg",
+   "tags": [
+    "emne:Bureau",
+    "emne:Design",
+    "brand:typo",
+    "layout:full",
+    "farve:pastel",
+    "stemning:luksus",
+    "stemning:minimal"
+   ],
+   "ai": true,
+   "date": "2026-11-10T09:41:35.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13670-olivia-plender",
+   "title": "Olivia Plender",
+   "url": "https://www.siteinspire.com/website/13670-olivia-plender",
+   "credit": "Kieran Startup",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/SA9IdCYdYlme.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/SA9IdCYdYlme.jpg",
+   "tags": [
+    "stemning:minimal",
+    "brand:typo",
+    "emne:Kunst",
+    "emne:Portfolio"
+   ],
+   "ai": false,
+   "date": "2026-11-10T09:40:50.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13669-type-darkroom",
+   "title": "Type Darkroom",
+   "url": "https://www.siteinspire.com/website/13669-type-darkroom",
+   "credit": "Amanda Guo",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/nZZ21R0UF8zZ.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/nZZ21R0UF8zZ.jpg",
+   "tags": [
+    "brand:typo",
+    "emne:Typestøberi",
+    "brand:farve",
+    "layout:utrad",
+    "farve:neon",
+    "farve:dyb",
+    "stemning:raa"
+   ],
+   "ai": true,
+   "date": "2026-11-10T09:40:24.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13668-maison-integre",
+   "title": "Maison Integré",
+   "url": "https://www.siteinspire.com/website/13668-maison-integre",
+   "credit": "Della Mattia",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/7MBukhPoltGA.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/7MBukhPoltGA.jpg",
+   "tags": [
+    "stemning:luksus",
+    "emne:Forbrug",
+    "emne:Craft",
+    "branche:bolig"
+   ],
+   "ai": false,
+   "date": "2026-11-10T09:39:35.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13667-institute-for-postnatural-studies",
+   "title": "Institute for Postnatural Studies",
+   "url": "https://www.siteinspire.com/website/13667-institute-for-postnatural-studies",
+   "credit": "Rafa Cobiella",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/-8KrFE-4sUfe.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/-8KrFE-4sUfe.jpg",
+   "tags": [
+    "brand:typo",
+    "farve:mono",
+    "emne:Kunst",
+    "emne:Kultur",
+    "emne:Nonprofit"
+   ],
+   "ai": false,
+   "date": "2026-11-10T09:39:08.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13666-office-benganz",
+   "title": "Office Benganz",
+   "url": "https://www.siteinspire.com/website/13666-office-benganz",
+   "credit": "No Plans",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/IUUfQsyeCAHt.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/IUUfQsyeCAHt.jpg",
+   "tags": [
+    "farve:mono",
+    "layout:grid",
+    "emne:Kultur",
+    "emne:Design",
+    "emne:Bureau",
+    "stemning:minimal"
+   ],
+   "ai": false,
+   "date": "2026-11-10T09:38:21.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13665-atera",
+   "title": "Atera",
+   "url": "https://www.siteinspire.com/website/13665-atera",
+   "credit": "Theo Plawinski",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/O_O8izTAr8N1.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/O_O8izTAr8N1.jpg",
+   "tags": [
+    "stemning:luksus",
+    "stemning:minimal",
+    "emne:Health-&-Fitness",
+    "branche:rejser"
+   ],
+   "ai": false,
+   "date": "2026-11-10T09:37:20.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13663-collective-gallery",
+   "title": "Collective Gallery",
+   "url": "https://www.siteinspire.com/website/13663-collective-gallery",
+   "credit": "The Touch Agency",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/0NAkBiOP2N0W.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/0NAkBiOP2N0W.jpg",
+   "tags": [
+    "brand:typo",
+    "stemning:minimal",
+    "emne:Kunst",
+    "emne:Kultur",
+    "emne:Galleries-&-Museums"
+   ],
+   "ai": false,
+   "date": "2026-11-10T09:37:13.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13662-under10archive",
+   "title": "Under10Archive",
+   "url": "https://www.siteinspire.com/website/13662-under10archive",
+   "credit": "Tasio Calvo",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/0K5P6IPoOZfy.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/0K5P6IPoOZfy.jpg",
+   "tags": [
+    "farve:mono",
+    "brand:typo",
+    "emne:Underholdning",
+    "emne:Historie",
+    "emne:Musik",
+    "brand:redak",
+    "layout:split",
+    "stemning:minimal",
+    "stemning:raa"
+   ],
+   "ai": true,
+   "date": "2026-11-10T09:37:07.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13661-typical",
+   "title": "TYPICAL",
+   "url": "https://www.siteinspire.com/website/13661-typical",
+   "credit": "Glasfurd & Walker",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/-q-w9D3Uix2i.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/-q-w9D3Uix2i.jpg",
+   "tags": [
+    "brand:typo",
+    "farve:mono",
+    "emne:Forbrug",
+    "emne:Home-&-Garden",
+    "brand:farve",
+    "layout:full",
+    "farve:varm",
+    "stemning:minimal",
+    "stemning:luksus"
+   ],
+   "ai": true,
+   "date": "2026-11-10T09:37:00.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13660-josef-and-anni-albers-foundation",
+   "title": "Josef & Anni Albers Foundation",
+   "url": "https://www.siteinspire.com/website/13660-josef-and-anni-albers-foundation",
+   "credit": "Bureau for Visual Affairs",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/dicaOhDvKP2c.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/dicaOhDvKP2c.jpg",
+   "tags": [
+    "stemning:minimal",
+    "emne:Kunst",
+    "emne:Kultur",
+    "emne:Nonprofit"
+   ],
+   "ai": false,
+   "date": "2026-11-10T09:36:52.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13657-chambres-damis",
+   "title": "Chambres d'Amis",
+   "url": "https://www.siteinspire.com/website/13657-chambres-damis",
+   "credit": "Salt&Bits",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/htbyXOnnL1y0.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/htbyXOnnL1y0.jpg",
+   "tags": [
+    "brand:typo",
+    "brand:redak",
+    "emne:Mad-og-drikke",
+    "emne:Café",
+    "layout:split",
+    "farve:jord",
+    "farve:varm",
+    "stemning:luksus",
+    "stemning:rolig"
+   ],
+   "ai": true,
+   "date": "2026-11-10T09:36:48.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13664-table",
+   "title": "TABLE",
+   "url": "https://www.siteinspire.com/website/13664-table",
+   "credit": "Studio 鳴",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/6QQQezIA5642.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/6QQQezIA5642.jpg",
+   "tags": [
+    "stemning:minimal",
+    "emne:Mad-og-drikke",
+    "brand:redak"
+   ],
+   "ai": false,
+   "date": "2026-11-10T09:34:17.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13659-etablissements",
+   "title": "Établissements",
+   "url": "https://www.siteinspire.com/website/13659-etablissements",
+   "credit": "",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/aQ7Mx4o3as1M.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/aQ7Mx4o3as1M.jpg",
+   "tags": [
+    "stemning:luksus",
+    "stemning:minimal",
+    "emne:Design",
+    "emne:Bureau",
+    "emne:Portfolio"
+   ],
+   "ai": false,
+   "date": "2026-11-10T09:32:09.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13658-double-dimanche",
+   "title": "Double Dimanche",
+   "url": "https://www.siteinspire.com/website/13658-double-dimanche",
+   "credit": "Della Mattia",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/IxKEckqiev6d.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/IxKEckqiev6d.jpg",
+   "tags": [
+    "brand:typo",
+    "stemning:minimal",
+    "emne:Mad-og-drikke",
+    "emne:Café"
+   ],
+   "ai": false,
+   "date": "2026-11-10T09:31:49.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13656-istd-awards",
+   "title": "ISTD Awards",
+   "url": "https://www.siteinspire.com/website/13656-istd-awards",
+   "credit": "Upclose",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/yxOPDqxr8a6j.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/yxOPDqxr8a6j.jpg",
+   "tags": [
+    "brand:typo",
+    "farve:mono",
+    "emne:Awards"
+   ],
+   "ai": false,
+   "date": "2026-11-10T09:30:30.000Z"
+  },
   {
    "id": "https://www.siteinspire.com/website/11135-blond",
    "title": "Blond",
