@@ -1,6 +1,113 @@
 {
- "updated": "2026-11-11T05:54:06.714Z",
+ "updated": "2026-11-12T05:57:04.492Z",
  "items": [
+  {
+   "id": "https://www.siteinspire.com/website/13679-frederic-lord",
+   "title": "Frédéric Lord",
+   "url": "https://www.siteinspire.com/website/13679-frederic-lord",
+   "credit": "Frédéric Lord",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/A_36VFa4OpcN.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/A_36VFa4OpcN.jpg",
+   "tags": [
+    "stemning:minimal",
+    "farve:mono",
+    "emne:Design",
+    "emne:Personlig",
+    "emne:Portfolio"
+   ],
+   "ai": false,
+   "date": "2026-11-11T10:22:02.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13680-arrova",
+   "title": "Arrova",
+   "url": "https://www.siteinspire.com/website/13680-arrova",
+   "credit": "",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/NfU68ge9jYAu.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/NfU68ge9jYAu.jpg",
+   "tags": [
+    "farve:mono",
+    "stemning:minimal",
+    "branche:bolig",
+    "emne:Bureau",
+    "emne:Portfolio"
+   ],
+   "ai": false,
+   "date": "2026-11-11T10:22:01.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13677-conwest-developments",
+   "title": "Conwest Developments",
+   "url": "https://www.siteinspire.com/website/13677-conwest-developments",
+   "credit": "ZAK",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/teiTeAadPf-R.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/teiTeAadPf-R.jpg",
+   "tags": [
+    "brand:typo",
+    "branche:bolig",
+    "layout:full",
+    "farve:varm",
+    "farve:jord",
+    "stemning:minimal",
+    "stemning:rolig"
+   ],
+   "ai": true,
+   "date": "2026-11-11T10:20:51.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13678-haikoo-studio",
+   "title": "Haikoo Studio",
+   "url": "https://www.siteinspire.com/website/13678-haikoo-studio",
+   "credit": "Haikoo Studio",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/fYU_mH_K3PzN.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/fYU_mH_K3PzN.jpg",
+   "tags": [
+    "farve:mono",
+    "layout:grid",
+    "brand:motion",
+    "emne:Design",
+    "emne:Bureau"
+   ],
+   "ai": false,
+   "date": "2026-11-11T10:20:15.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13676-jon-pilkington",
+   "title": "Jon Pilkington",
+   "url": "https://www.siteinspire.com/website/13676-jon-pilkington",
+   "credit": "Cliff Studio",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/fNsXQXZls1yj.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/fNsXQXZls1yj.jpg",
+   "tags": [
+    "stemning:minimal",
+    "emne:Kunst",
+    "emne:Personlig"
+   ],
+   "ai": false,
+   "date": "2026-11-11T10:19:51.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13675-moxie-theatre",
+   "title": "MOXIE Theatre",
+   "url": "https://www.siteinspire.com/website/13675-moxie-theatre",
+   "credit": "REUNION",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/VFxCNoul8Ik1.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/VFxCNoul8Ik1.jpg",
+   "tags": [
+    "brand:typo",
+    "farve:mono",
+    "emne:Kultur",
+    "emne:Dance-&-Theatre"
+   ],
+   "ai": false,
+   "date": "2026-11-11T10:19:30.000Z"
+  },
   {
    "id": "https://www.siteinspire.com/website/13673-tacaloa",
    "title": "Tacaloa",
@@ -157,9 +264,15 @@
     "stemning:luksus",
     "emne:Forbrug",
     "emne:Craft",
-    "branche:bolig"
+    "branche:bolig",
+    "brand:typo",
+    "layout:split",
+    "layout:full",
+    "farve:jord",
+    "farve:dyb",
+    "stemning:minimal"
    ],
-   "ai": false,
+   "ai": true,
    "date": "2026-11-10T09:39:35.000Z"
   },
   {
@@ -229,9 +342,13 @@
     "stemning:minimal",
     "emne:Kunst",
     "emne:Kultur",
-    "emne:Galleries-&-Museums"
+    "emne:Galleries-&-Museums",
+    "brand:farve",
+    "layout:full",
+    "farve:kolig",
+    "stemning:rolig"
    ],
-   "ai": false,
+   "ai": true,
    "date": "2026-11-10T09:37:13.000Z"
   },
   {
@@ -379,9 +496,12 @@
    "tags": [
     "brand:typo",
     "farve:mono",
-    "emne:Awards"
+    "emne:Awards",
+    "layout:utrad",
+    "farve:dyb",
+    "stemning:minimal"
    ],
-   "ai": false,
+   "ai": true,
    "date": "2026-11-10T09:30:30.000Z"
   },
   {
