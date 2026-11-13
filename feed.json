@@ -1,6 +1,74 @@
 {
- "updated": "2026-11-12T05:57:04.492Z",
+ "updated": "2026-11-13T05:56:13.551Z",
  "items": [
+  {
+   "id": "https://www.siteinspire.com/website/13684-kolfest",
+   "title": "KOLFEST",
+   "url": "https://www.siteinspire.com/website/13684-kolfest",
+   "credit": "Bermet Darbish",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/pd88SUjfWiy2.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/pd88SUjfWiy2.jpg",
+   "tags": [
+    "brand:typo",
+    "emne:Kultur",
+    "emne:Musik",
+    "emne:Conferences-&-Festivals"
+   ],
+   "ai": false,
+   "date": "2026-11-12T09:36:50.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13683-etoile",
+   "title": "ETOILE",
+   "url": "https://www.siteinspire.com/website/13683-etoile",
+   "credit": "",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/3hxIwA5Mt_Lk.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/3hxIwA5Mt_Lk.jpg",
+   "tags": [
+    "stemning:luksus",
+    "emne:Forbrug",
+    "emne:E-handel",
+    "emne:Mode"
+   ],
+   "ai": false,
+   "date": "2026-11-12T09:36:47.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13681-charles",
+   "title": "Charles",
+   "url": "https://www.siteinspire.com/website/13681-charles",
+   "credit": "Lovelace Studio",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/ou682MV2czUo.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/ou682MV2czUo.jpg",
+   "tags": [
+    "stemning:luksus",
+    "branche:bolig",
+    "emne:Produktdesign",
+    "emne:Katalog"
+   ],
+   "ai": false,
+   "date": "2026-11-12T09:36:31.000Z"
+  },
+  {
+   "id": "https://www.siteinspire.com/website/13682-primal-instinct",
+   "title": "Primal Instinct",
+   "url": "https://www.siteinspire.com/website/13682-primal-instinct",
+   "credit": "wawww",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/pgUHCUmikr9a.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/pgUHCUmikr9a.jpg",
+   "tags": [
+    "farve:mono",
+    "stemning:minimal",
+    "emne:Musik",
+    "emne:Record-Labels"
+   ],
+   "ai": false,
+   "date": "2026-11-12T09:36:00.000Z"
+  },
   {
    "id": "https://www.siteinspire.com/website/13679-frederic-lord",
    "title": "Frédéric Lord",
@@ -32,9 +100,12 @@
     "stemning:minimal",
     "branche:bolig",
     "emne:Bureau",
-    "emne:Portfolio"
+    "emne:Portfolio",
+    "brand:illu",
+    "layout:utrad",
+    "stemning:rolig"
    ],
-   "ai": false,
+   "ai": true,
    "date": "2026-11-11T10:22:01.000Z"
   },
   {
@@ -480,9 +551,11 @@
     "brand:typo",
     "stemning:minimal",
     "emne:Mad-og-drikke",
-    "emne:Café"
+    "emne:Café",
+    "layout:utrad",
+    "farve:mono"
    ],
-   "ai": false,
+   "ai": true,
    "date": "2026-11-10T09:31:49.000Z"
   },
   {
