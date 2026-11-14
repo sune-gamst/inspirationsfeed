@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T05:56:13.551Z",
+ "updated": "2026-11-14T05:45:30.793Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/13684-kolfest",
@@ -1044,9 +1044,13 @@
    "tags": [
     "brand:typo",
     "stemning:minimal",
-    "emne:Portfolio"
+    "emne:Portfolio",
+    "brand:farve",
+    "layout:utrad",
+    "farve:kolig",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13633-nothin",
