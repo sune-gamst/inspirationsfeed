@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T05:49:28.804Z",
+ "updated": "2026-11-16T06:03:24.249Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/9116-husk",
@@ -531,9 +531,14 @@
    "tags": [
     "stemning:minimal",
     "emne:Mad-og-drikke",
-    "brand:redak"
+    "brand:redak",
+    "brand:illu",
+    "brand:typo",
+    "layout:full",
+    "farve:jord",
+    "stemning:rolig"
    ],
-   "ai": false,
+   "ai": true,
    "date": "2026-11-10T09:34:17.000Z"
   },
   {
