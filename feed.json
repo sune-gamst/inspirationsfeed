@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:03:24.249Z",
+ "updated": "2026-11-17T14:13:27.704Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/9116-husk",
@@ -62,9 +62,14 @@
     "stemning:luksus",
     "branche:bolig",
     "emne:Produktdesign",
-    "emne:Katalog"
+    "emne:Katalog",
+    "brand:typo",
+    "layout:full",
+    "farve:varm",
+    "farve:jord",
+    "stemning:rolig"
    ],
-   "ai": false,
+   "ai": true,
    "date": "2026-11-12T09:36:31.000Z"
   },
   {
