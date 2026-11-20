@@ -1,6 +1,21 @@
 {
- "updated": "2026-11-19T14:13:42.280Z",
+ "updated": "2026-11-20T13:55:14.389Z",
  "items": [
+  {
+   "id": "https://www.siteinspire.com/website/10454-stripe-press",
+   "title": "Stripe Press",
+   "url": "https://www.siteinspire.com/website/10454-stripe-press",
+   "credit": "",
+   "source": "Siteinspire",
+   "sq": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1600,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/VGLkUMotthU4.jpg",
+   "img": "https://r2.siteinspire.com/cdn-cgi/image/width=1600,height=1000,quality=80,format=auto,metadata=none,gravity=top,fit=crop,compress=true/VGLkUMotthU4.jpg",
+   "tags": [
+    "emne:Tech",
+    "emne:Books-&-Literature"
+   ],
+   "ai": false,
+   "date": "2026-11-19T09:27:33.000Z"
+  },
   {
    "id": "https://www.siteinspire.com/website/13686-sydopia",
    "title": "Sydopia",
@@ -136,9 +151,13 @@
     "farve:mono",
     "stemning:minimal",
     "emne:Musik",
-    "emne:Record-Labels"
+    "emne:Record-Labels",
+    "brand:typo",
+    "layout:full",
+    "farve:dyb",
+    "stemning:raa"
    ],
-   "ai": false,
+   "ai": true,
    "date": "2026-11-12T09:36:00.000Z"
   },
   {
