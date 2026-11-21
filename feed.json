@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:55:14.389Z",
+ "updated": "2026-11-21T13:18:10.327Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/10454-stripe-press",
@@ -469,9 +469,11 @@
     "emne:Kultur",
     "emne:Design",
     "emne:Bureau",
-    "stemning:minimal"
+    "stemning:minimal",
+    "brand:illu",
+    "brand:typo"
    ],
-   "ai": false,
+   "ai": true,
    "date": "2026-11-10T09:38:21.000Z"
   },
   {
@@ -486,9 +488,14 @@
     "stemning:luksus",
     "stemning:minimal",
     "emne:Health-&-Fitness",
-    "branche:rejser"
+    "branche:rejser",
+    "brand:typo",
+    "layout:full",
+    "farve:varm",
+    "farve:jord",
+    "stemning:rolig"
    ],
-   "ai": false,
+   "ai": true,
    "date": "2026-11-10T09:37:20.000Z"
   },
   {
