@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T13:18:10.327Z",
+ "updated": "2026-11-22T13:10:27.633Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/10454-stripe-press",
@@ -112,9 +112,13 @@
     "stemning:luksus",
     "emne:Forbrug",
     "emne:E-handel",
-    "emne:Mode"
+    "emne:Mode",
+    "brand:redak",
+    "layout:full",
+    "farve:jord",
+    "stemning:rolig"
    ],
-   "ai": false,
+   "ai": true,
    "date": "2026-11-12T09:36:47.000Z"
   },
   {
