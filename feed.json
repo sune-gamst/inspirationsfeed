@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:50:02.932Z",
+ "updated": "2026-11-28T13:59:18.732Z",
  "items": [
   {
    "id": "https://www.siteinspire.com/website/13688-berry-ereader",
@@ -67,9 +67,14 @@
     "brand:typo",
     "stemning:luksus",
     "branche:bolig",
-    "emne:Bureau"
+    "emne:Bureau",
+    "layout:full",
+    "farve:jord",
+    "farve:mono",
+    "stemning:minimal",
+    "stemning:rolig"
    ],
-   "ai": false,
+   "ai": true,
    "date": "2026-11-17T09:11:21.000Z"
   },
   {
@@ -1235,9 +1240,14 @@
     "emne:Corporate",
     "stemning:minimal",
     "branche:bolig",
-    "emne:Byggeri"
+    "emne:Byggeri",
+    "brand:typo",
+    "layout:full",
+    "farve:jord",
+    "farve:varm",
+    "stemning:rolig"
    ],
-   "ai": false
+   "ai": true
   },
   {
    "id": "https://www.siteinspire.com/website/13630-scullion-architects",
